@@ -1,14 +1,14 @@
-## <p style="text-align: center;"> Hi there 👋 </p>
+## <p style="text-align: center;"> Hi there </p>
 
 ### About me 
 ---
-I am a second year computer science student at the Technical University of Munich, passionate about data science, machine learning and building full stack apps.
+I'm in my last year of computer science at the Technical University of Munich, passionate about data science and machine learning.
 
 ### What I'm up to 
 ---
 1. Currently taking courses on data science and full-stack software development on Udacity
 2. Working on passion projects
-3. Open to work (for free) 
+3. Open to work
 
 ### Connect with me
 ---
